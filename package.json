@@ -30,6 +30,7 @@
     "mvola": "^1.2.0",
     "mysql": "^2.18.1",
     "mysql2": "^3.5.1",
+    "netlify-cli": "^16.4.2",
     "node-fetch": "^2.7.0",
     "nodemailer": "^6.9.4",
     "python3": "^0.0.1",
